@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GCM user</string>
+    <string name="connect_to_driver_1">Connect to Driver 1</string>
+    <string name="gcm_defaultSenderId">1090221473101</string>
+      <string name="gcm_send_message">Token retrieved and sent to server! You can now use gcmsender to
+        send downstream messages to this app.</string>
+    <string name="registering_message">Generating InstanceID token...</string>
+    <string name="token_error_message">An error occurred while either fetching the InstanceID token,
+        sending the fetched token to the server or subscribing to the PubSub topic. Please try
+        running the sample again.</string>
+    <string name="title_activity_driver_location">Map</string>
+    <string name="update_location">update location</string>
+</resources>
